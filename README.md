@@ -11,6 +11,12 @@ We'll perform the ETL process and use PostgreSQL database to help with our data 
 4. Our final deliverable will be to create the movie base
 
 ## The 3 Data files
+Wikipedia Data
+
+![image](https://user-images.githubusercontent.com/94253815/150708002-5cffabad-692b-4f29-8d88-c92169f01c5f.png)
+
+Kaggle Metadata 
+
 
 
 
