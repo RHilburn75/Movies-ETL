@@ -11,6 +11,8 @@ We'll perform the ETL process and use PostgreSQL database to help with our data 
 4. Our final deliverable will be to create the movie base
 
 ## The 3 Data files
+
+With the use of Python, Pandas, ETL process and code refactoring we wanted to write functions that will read the files and gives 3 seperate dataframes.
 Wikipedia Data
 
 ![image](https://user-images.githubusercontent.com/94253815/150708002-5cffabad-692b-4f29-8d88-c92169f01c5f.png)
@@ -21,5 +23,9 @@ Kaggle Metadata
 
 ratings Data frame
 
+![image](https://user-images.githubusercontent.com/94253815/150708117-d7bfc7ba-385d-4b62-9000-923a26b2bfb1.png)
+
+## Extract and Transform the Wikipedia Data
+This will continue our use of Python, Pandas, the ETL process and code refactoring, we'll merge the Wikipedia data with Kaggle data. We'll also use the "try- except" block to catch any errors.
 
 
