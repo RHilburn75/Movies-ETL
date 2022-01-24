@@ -17,6 +17,9 @@ Wikipedia Data
 
 Kaggle Metadata 
 
+![image](https://user-images.githubusercontent.com/94253815/150708065-c42f6dd6-33f7-4a84-83b5-231b7c184888.png)
+
+ratings Data frame
 
 
 
