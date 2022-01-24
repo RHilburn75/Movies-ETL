@@ -28,4 +28,9 @@ ratings Data frame
 ## Extract and Transform the Wikipedia Data
 This will continue our use of Python, Pandas, the ETL process and code refactoring, we'll merge the Wikipedia data with Kaggle data. We'll also use the "try- except" block to catch any errors.
 
+Wiki_movies_df
+![image](https://user-images.githubusercontent.com/94253815/150708603-23ff911c-eda1-4304-938c-a0fc3901ce1c.png)
+
+Data Frame List
+
 
