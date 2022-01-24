@@ -33,4 +33,10 @@ Wiki_movies_df
 
 Data Frame List
 
+![image](https://user-images.githubusercontent.com/94253815/150708754-0f02732a-4298-4793-999f-4992bf680240.png)
+
+
+## Extract and Transform the Kaggle Data
+
+Here we extracted and transformed Kaggle Metadata and Movielens rating data, converted into dataframes.  We'll create 2 data frames.  the 1st will consist of Kaggle metadata Dataframe and the Wikipedia movies DataFrame and will create a DataFrame called "movies_df".  Finally, we'll combine the movies_df with MovieLens rating DataFrame to create "movies_with_ratings_df
 
