@@ -42,8 +42,9 @@ Here we extracted and transformed Kaggle Metadata and Movielens rating data, con
 
 movies_with_ratings_df
 
-![image](https://user-images.githubusercontent.com/94253815/150709250-19897cdb-f8ec-4aaf-9b3c-a5cef12c0f31.png)
+
 
 movies_df
 
+![image](https://user-images.githubusercontent.com/94253815/150709347-2e6f5c26-f79d-42a4-90fa-92499ac64fc0.png)
 
