@@ -58,4 +58,5 @@ Movie Table:
 
 Ratings table:
 
+![image](https://user-images.githubusercontent.com/94253815/150710032-7e563e83-9615-401e-9c85-f0b9ec333e05.png)
 
