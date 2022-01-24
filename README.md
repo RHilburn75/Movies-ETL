@@ -52,4 +52,10 @@ movies_df
 ## Final Deliverable - To create the Movie data base
 Once we have created the movies_df, we'll use that, along with MovieLens CSV data, and load into a SQL data base.  Once we quered the information, we came back with two results. We created two tables, a movie table and a ratings table.  While the files are too large to view, we were able to get the number of rows per table  We confirmed the total rows in the movie table was 6052 and the ratings table returned 37,024,289.
 
+Movie Table:
+
+![image](https://user-images.githubusercontent.com/94253815/150709983-5c44900c-7d76-423c-b1ed-e5a47a673ac6.png)
+
+Ratings table:
+
 
